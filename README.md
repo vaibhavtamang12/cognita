@@ -1,4 +1,4 @@
-# Archivum
+# Cognita
 
 **Local-first RAG (Retrieval-Augmented Generation) chat interface.**
 
